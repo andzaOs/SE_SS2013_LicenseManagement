@@ -1,4 +1,4 @@
-# **Tema:** Upravljanje softverskim licencama
+# Upravljanje softverskim licencama
 
 **Oblast:** Softver inženjering (SI)
 

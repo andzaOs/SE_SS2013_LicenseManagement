@@ -4,7 +4,7 @@
 
 **Vrsta aplikacije:** Web
 
-**Programski jezik:** Java
+**Programski jezik:** Java (JSP)
 
 **Alat:** Eclipse
 

@@ -6,7 +6,7 @@
 
 **Subject:** Software Engineering
 
-Team work - group of 3 people
+Team work - group of 5 people
 
 **Application type:** Web
 

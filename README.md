@@ -1,6 +1,6 @@
 # License Management
 
-**Institution:** TU Vienna
+**Institution:** University of Sarajevo, Faculty of Electrical Engineering
 
 **Academic year:** 2012/2013
 

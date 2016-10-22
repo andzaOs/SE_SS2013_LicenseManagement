@@ -1,18 +1,20 @@
-# Upravljanje softverskim licencama
+# License Management
 
-**Oblast:** Softver inženjering (SI)
+**Institution:** TU Vienna
 
-**Vrsta aplikacije:** Web
+**Academic year:** 2012/2013
 
-**Programski jezik:** Java (JSP)
+**Subject:** Software Engineering
 
-**Alat:** Eclipse
+Team work - group of 3 people
 
-**Baza:** MySQL
+**Application type:** Web
 
-**Godina:** 2013
+**Programming language:** Java
 
-*Timski rad*
+**Technologies:** JSP, MySql, SVN
+
+**IDE:** Eclipse
 
 ---
 

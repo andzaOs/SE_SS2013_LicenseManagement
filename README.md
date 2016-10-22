@@ -12,7 +12,7 @@ Team work - group of 5 people
 
 **Programming language:** Java
 
-**Technologies:** JSP, MySql, SVN
+**Technologies:** JSP, MySql, Git
 
 **IDE:** Eclipse
 
